@@ -1,0 +1,14 @@
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  margin-bottom: 1.2rem;
+}
+
+h6 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.2rem;
+  text-decoration: underline;
+}
