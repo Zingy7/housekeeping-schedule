@@ -6,7 +6,7 @@ p {
   font-size: 1.2rem;
   margin: 0px;
   padding: 0px;
-  font-family: 'Varela Round', sans-serif;
+  font-family: "Varela Round", sans-serif;
 }
 
 img {
@@ -18,17 +18,21 @@ h5 {
   margin-top: 1.2rem;
   margin-bottom: 0.2rem;
   text-decoration: underline;
-  font-family: 'Varela Round', sans-serif;
+  font-family: "Varela Round", sans-serif;
   font-weight: bold;
 }
 
 h1 {
-    font-family: 'Varela Round', sans-serif;
-    font-weight: bold;
+  font-family: "Varela Round", sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Varela Round", sans-serif;
 }
 
 .buffer {
-    height: 2rem;
+  height: 2rem;
 }
 
 #blue-text {
