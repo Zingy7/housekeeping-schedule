@@ -21,6 +21,8 @@ h5 {
   font-family: "Varela Round", sans-serif;
   font-weight: bold;
   display: inline-block;
+  margin-left: 2px;
+  margin-right: 2px;
 }
 
 h1 {
@@ -34,6 +36,12 @@ h2 {
 
 .buffer {
   height: 2rem;
+}
+
+.jntr {
+  border: 2px solid blue;
+  border-radius: 5px;
+  color: darkblue;
 }
 
 #blue-text {
